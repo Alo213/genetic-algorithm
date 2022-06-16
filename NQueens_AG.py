@@ -1,10 +1,3 @@
-
-"""
-Implementar:
-
--Función de selección
-
-"""
 import random
 
 class GA:
